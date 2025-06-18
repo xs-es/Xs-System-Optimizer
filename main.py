@@ -1,9 +1,5 @@
-© 2025 Zachary L  Musselwhite. This code is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
-You may use this code for personal or educational purposes only.
-Commercial use, modification, and redistribution are strictly prohibited.
-
-See https://creativecommons.org/licenses/by-nc-nd/4.0/
+#Xs System Optimizer © 2025 by Zachary Musselwhite is licensed under CC BY-NC-ND 4.0. 
+#To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 #!/usr/bin/env python3
 """
